@@ -1,4 +1,3 @@
-
 📊 Finance Analysis Project
 Projeto desenvolvido para realizar análises em dados financeiros, utilizando Python e Docker para criar um ambiente de trabalho robusto e consistente.
 
